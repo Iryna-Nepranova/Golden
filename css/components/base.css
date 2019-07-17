@@ -12,3 +12,7 @@ html {
     max-width: 495px;
     margin: 0 auto;
 }
+ 
+a, img {
+    display: inline-block;
+}

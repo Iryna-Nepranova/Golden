@@ -2,8 +2,13 @@
     flex-direction: row;
     justify-content: center;
     list-style-type: none;
+    flex-wrap: wrap;
 }
 
 .list-group-item {
     border: transparent;
+}
+
+li.list-group-item {
+    display: inline-block;
 }

@@ -4,6 +4,10 @@
     text-transform: uppercase;
 }
 
+.white {
+    color: white;
+}
+
 .section-description {
     text-align: center;
     font-size: 16px;
@@ -16,6 +20,22 @@
 
 .section-team {
     background-color: #f7f7f7;
+}
+
+.section-contact {
+  background-color: #222222;
+  position: relative;
+  z-index: -2;
+}
+
+.overlay-map {
+    background-image: url('../../images/Map_Image.png');
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 @media (min-width: 320px) {
