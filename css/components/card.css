@@ -1,0 +1,22 @@
+.card-title {
+    font-size: 18px;
+}
+
+.card {
+    border: transparent;
+}
+
+.card-text {
+    font-size: 18px;
+    color: #777777;
+    font-family: "Times New Roman PSMT";
+}
+.card-header {
+    background: transparent;
+    border-bottom: transparent;
+}
+
+.circle {
+    background: transparent;
+}
+

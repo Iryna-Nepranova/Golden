@@ -1,0 +1,9 @@
+.list-group {
+    flex-direction: row;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.list-group-item {
+    border: transparent;
+}

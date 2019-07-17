@@ -1,0 +1,14 @@
+html {
+    font-family: 'Arial MT', sans-serif;
+}
+
+.img-circle {
+  width: 234px;
+  height: 235px;
+  margin: 0 auto;
+}
+
+.desc-team {
+    max-width: 495px;
+    margin: 0 auto;
+}
