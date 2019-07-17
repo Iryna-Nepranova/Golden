@@ -1,1 +1,8 @@
+.footer {
+    padding: 15px 0;
+}
+
+.footer-bottom {
+    display: flex;
+}
 

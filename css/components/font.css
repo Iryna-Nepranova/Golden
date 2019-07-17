@@ -8,7 +8,10 @@
   font-weight: normal;
   font-style: normal;
 }
-
+.icon-facebook.black,.icon-twitter.black,.icon-pinterest2.black,.icon-google.black{
+  background-color: black;
+  color: white;
+}
 .icon-basket, .icon-display, .icon-lock-closed {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;

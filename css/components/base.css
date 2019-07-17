@@ -16,3 +16,11 @@ html {
 a, img {
     display: inline-block;
 }
+
+h1 {
+    font-size: 75px;
+}
+
+.lead {
+    font-size: 40px;
+}
