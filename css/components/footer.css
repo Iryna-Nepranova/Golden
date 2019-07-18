@@ -6,3 +6,13 @@
     display: flex;
 }
 
+@media (min-width:320px) {
+    .footer-list {
+        padding-left: 10px;
+    }
+}
+@media (min-width:900px) {
+    .footer-list {
+        padding-left: 90px;
+    }
+}

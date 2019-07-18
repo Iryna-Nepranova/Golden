@@ -44,6 +44,7 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+
 .icon-google:before {
   content: "\e900";
 }
