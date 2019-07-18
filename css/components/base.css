@@ -24,3 +24,8 @@ h1 {
 .lead {
     font-size: 40px;
 }
+
+a:hover {
+    color: grey;
+    text-decoration: none;
+}

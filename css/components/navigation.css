@@ -4,8 +4,7 @@
     text-transform: uppercase;
 }
 
-
-@media (min-width:320px) {
+@media (min-width:210px) {
     .mobile {
         display: block;
     }

@@ -2,5 +2,9 @@
     background-image: url('../../images/Background_Image.png');
     background-size: cover;
     position: relative;
-    background-position: center;
+    background-position: top;
+}
+
+.bg-dark {
+    background-color: transparent !important;
 }
